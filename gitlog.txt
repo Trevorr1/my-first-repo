@@ -1,0 +1,23 @@
+commit e4c7703ed839844c23f44de1938a865893a0db77
+Author: Trevorr1 <fox4life76@gmail.com>
+Date:   Wed Jan 10 15:46:03 2018 +0100
+
+    added a new line to .gitignore
+
+commit fd170d685fa529c9da53c858cdc739274c8acba6
+Author: Trevorr1 <fox4life76@gmail.com>
+Date:   Wed Jan 10 15:40:34 2018 +0100
+
+    added gitignore
+
+commit 4de2377f59e3743377425f250e05e4b145b90743
+Author: Trevorr1 <fox4life76@gmail.com>
+Date:   Wed Jan 10 12:56:43 2018 +0100
+
+    added two files
+
+commit 4b23e0fc6240693343c266aa131378cf5413bd15
+Author: Trevorr1 <fox4life76@gmail.com>
+Date:   Wed Jan 10 12:45:50 2018 +0100
+
+    added readme.txt
